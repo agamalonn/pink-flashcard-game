@@ -1,0 +1,6452 @@
+[
+  {
+    "english": "realm",
+    "hebrew": "תחום",
+    "sentence": "This topic belongs to the realm of science.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deposit",
+    "hebrew": "להפקיד, פיקדון",
+    "sentence": "I need to deposit money into my account.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Dozen",
+    "hebrew": "עשרות",
+    "sentence": "He bought a dozen eggs from the store.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Deference to",
+    "hebrew": "כבוד ל",
+    "sentence": "He spoke with deference to the older professor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "superstitious",
+    "hebrew": "מאמין באמונות תפלות",
+    "sentence": "My grandmother was very superstitious.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "negate",
+    "hebrew": "לשלול",
+    "sentence": "One mistake doesn’t negate all your progress.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Pistol",
+    "hebrew": "אקדח",
+    "sentence": "The detective carried a small pistol.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": true
+  },
+  {
+    "english": "descending",
+    "hebrew": "יורד",
+    "sentence": "sort the list in descending order",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "pleasant",
+    "hebrew": "נוחים",
+    "sentence": "We had a very pleasant walk in the park.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Howl",
+    "hebrew": "יללה",
+    "sentence": "The wolves began to howl under the full moon.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Observation",
+    "hebrew": "תַצְפִּית",
+    "sentence": "He made an interesting observation about the stars.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "deduce",
+    "hebrew": "להסיק, להפיק מסקנה",
+    "sentence": "I will now use the word 'deduce' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "misleading",
+    "hebrew": "להטעות",
+    "sentence": "The advertisement was misleading and deceptive.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "Executive",
+    "hebrew": "מנהלים",
+    "sentence": "The executives met to discuss the new strategy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Debatable",
+    "hebrew": "נתון לויכוח",
+    "sentence": "His theory is highly debatable.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Obscured",
+    "hebrew": "מעורפל",
+    "sentence": "The view was obscured by heavy fog.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "distribution",
+    "hebrew": "הפצה",
+    "sentence": "The company handles the distribution of books.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Treason",
+    "hebrew": "בגידה",
+    "sentence": "He was accused of treason against the country.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "generating",
+    "hebrew": "מחוללים",
+    "sentence": "The engine is generating a lot of heat.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Exile",
+    "hebrew": "גלות",
+    "sentence": "He lived in exile for over a decade.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Resentment",
+    "hebrew": "טינה, מרמור",
+    "sentence": "He spoke with deep resentment about the unfair treatment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "withdraw",
+    "hebrew": "לסגת,למשוך",
+    "sentence": "both countries agreed to withdraw their troops",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Tin",
+    "hebrew": "פח",
+    "sentence": "The cookies were stored in a tin box.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Amassing",
+    "hebrew": "צבירה",
+    "sentence": "He spent years amassing a fortune.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Apparently",
+    "hebrew": "ככל הנראה",
+    "sentence": "Apparently, the meeting has been canceled.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "scrutinize",
+    "hebrew": "לבחון",
+    "sentence": "He scrutinized every detail of the contract.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Depletion",
+    "hebrew": "חוסר, דילול",
+    "sentence": "The depletion of natural resources is a global concern.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Merely",
+    "hebrew": "בלבד",
+    "sentence": "It was merely a suggestion, not a command.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "validate",
+    "hebrew": "לאמת, לוודא",
+    "sentence": "The experiment helped validate their theory.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "known",
+    "chosen": false
+  },
+  {
+    "english": "substantiate",
+    "hebrew": "לתמוך בראיות",
+    "sentence": "She could not substantiate her claims with evidence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Posing",
+    "hebrew": "מציג, מתחזה",
+    "sentence": "He was arrested for posing as a doctor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "initial",
+    "hebrew": "התחלתי",
+    "sentence": "The initial plan was later modified.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Riddles",
+    "hebrew": "חידות",
+    "sentence": "She enjoys solving riddles in her spare time.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "encounter",
+    "hebrew": "פגישה",
+    "sentence": "Their encounter was brief but memorable.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "stinging",
+    "hebrew": "נוקב",
+    "sentence": "Her stinging words hurt his feelings.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "reconcile",
+    "hebrew": "לפייס",
+    "sentence": "They tried to reconcile after years of conflict.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "To strike",
+    "hebrew": "להכות, לשבות",
+    "sentence": "The workers decided to strike for better conditions.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Secular",
+    "hebrew": "חילוני",
+    "sentence": "The school offers a secular education without religious instruction.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Obtain",
+    "hebrew": "להשיג",
+    "sentence": "You need a license to obtain the medication.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Curtain",
+    "hebrew": "וילון",
+    "sentence": "She pulled the curtain to block the sunlight.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Inevitably",
+    "hebrew": "בהכרח",
+    "sentence": "Inevitably, the truth came out in the end.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Friction",
+    "hebrew": "חיכוך",
+    "sentence": "There was some friction between the two groups.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "presumptuous",
+    "hebrew": "שחצנים",
+    "sentence": "It was presumptuous of him to speak for everyone.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "prioritize",
+    "hebrew": "לתת עדיפות",
+    "sentence": "I will now use the word 'prioritize' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "presumptuous",
+    "hebrew": "שחצנים",
+    "sentence": "It was presumptuous of him to assume she’d help.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Disposal",
+    "hebrew": "סילוק",
+    "sentence": "Proper waste disposal is essential for the environment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "assertive",
+    "hebrew": "החלטיים",
+    "sentence": "You should be more assertive in meetings.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "excessive",
+    "hebrew": "מוגזמת",
+    "sentence": "He spent an excessive amount of time on the project.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Unearth",
+    "hebrew": "לחפור, לחשוף",
+    "sentence": "Archaeologists unearthed an ancient city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "underscore",
+    "hebrew": "להדגיש",
+    "sentence": "The incident underscores the need for better safety measures.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Timber",
+    "hebrew": "עץ",
+    "sentence": "They used timber to build the cabin.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Supplanted",
+    "hebrew": "מוחלף",
+    "sentence": "Email has largely supplanted traditional letters.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "compelling",
+    "hebrew": "משכנעת",
+    "sentence": "Her argument was very compelling.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "resourceful",
+    "hebrew": "רבת תושייה",
+    "sentence": "He’s very resourceful when it comes to solving problems.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Sanctioned",
+    "hebrew": "סנקציה",
+    "sentence": "The government sanctioned the new policy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Trait",
+    "hebrew": "תכונה, מאפיין",
+    "sentence": "Kindness is a wonderful trait to have.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Presecution",
+    "hebrew": "רדיפה, הצקה",
+    "sentence": "The group faced persecution for their beliefs.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Domination",
+    "hebrew": "שליטה",
+    "sentence": "The country struggled against foreign domination.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Controversy",
+    "hebrew": "מחלוקת",
+    "sentence": "The policy caused much public controversy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Disperse",
+    "hebrew": "לְפַזֵר",
+    "sentence": "The police tried to disperse the crowd.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "vulnerability",
+    "hebrew": "פגיעות",
+    "sentence": "He showed emotional vulnerability during the interview.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Wander",
+    "hebrew": "לשוטט",
+    "sentence": "Tourists like to wander through the ancient streets.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "flock",
+    "hebrew": "עדר",
+    "sentence": "A flock of birds flew over the house at dusk.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Rightful",
+    "hebrew": "צודק",
+    "sentence": "He is the rightful heir to the throne.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Vast",
+    "hebrew": "עצום",
+    "sentence": "The desert stretched out into the vast distance.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Succumbed",
+    "hebrew": "נכנע, מת",
+    "sentence": "After weeks of fighting, he finally succumbed to the disease.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "conviction",
+    "hebrew": "אמונה",
+    "sentence": "He spoke with strong conviction.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To persist",
+    "hebrew": "להתעקש, להתמיד",
+    "sentence": "She persisted despite all the difficulties.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "idle",
+    "hebrew": "בטלה",
+    "sentence": "The machine was left idle for weeks.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Scarce",
+    "hebrew": "נדיר",
+    "sentence": "Fresh water is scarce in that region.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Mainstay",
+    "hebrew": "עמוד תווך",
+    "sentence": "She is the mainstay of her family.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "assertive",
+    "hebrew": "החלטיים",
+    "sentence": "She’s very assertive when presenting her ideas.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fin",
+    "hebrew": "סנפיר",
+    "sentence": "The shark’s fin appeared above the water.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Extensive",
+    "hebrew": "נִרחָב",
+    "sentence": "The storm caused extensive damage.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Hind",
+    "hebrew": "אחורי",
+    "sentence": "The horse kicked with its hind legs.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "benevolent",
+    "hebrew": "נדיב",
+    "sentence": "The king was known as a benevolent ruler.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Knot",
+    "hebrew": "קשר",
+    "sentence": "She tied the rope in a tight knot.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Predominantly",
+    "hebrew": "בעיקר",
+    "sentence": "The group was predominantly female.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To perspire",
+    "hebrew": "להזיע",
+    "sentence": "He began to perspire under the hot sun.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "frugal",
+    "hebrew": "חסכוני",
+    "sentence": "He lives a frugal life with minimal spending.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Reveal",
+    "hebrew": "לגלות",
+    "sentence": "He refused to reveal the secret.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "undermine",
+    "hebrew": "לחתור",
+    "sentence": "The rumor was intended to undermine her reputation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "assess",
+    "hebrew": "להעריך",
+    "sentence": "The teacher will assess your understanding based on the test.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "enhance",
+    "hebrew": "להגביר",
+    "sentence": "his refusal does nothing to enhance his reputation",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "discretion",
+    "hebrew": "זהירות, שיקול דעת",
+    "sentence": "Use discretion when handling sensitive information.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "description",
+    "hebrew": "תיאור",
+    "sentence": "The book includes a detailed description of each species.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Defendant",
+    "hebrew": "נאשם במשפט",
+    "sentence": "The defendant pleaded not guilty.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "exceeds",
+    "hebrew": "עולה על",
+    "sentence": "The final cost exceeds our original budget.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Expenditure",
+    "hebrew": "הוצאה",
+    "sentence": "Government expenditure rose last year.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Predicting",
+    "hebrew": "חיזוי",
+    "sentence": "Meteorologists are predicting heavy rain.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Perishable",
+    "hebrew": "מתכלה",
+    "sentence": "Always store perishable food in the fridge.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Sustenance",
+    "hebrew": "מזון",
+    "sentence": "The villagers rely on fishing for sustenance.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Defiance",
+    "hebrew": "התרסה, התנגדות",
+    "sentence": "He acted in open defiance of the rules.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Digression",
+    "hebrew": "סטייה",
+    "sentence": "The speaker’s digression confused the audience.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Obstructed",
+    "hebrew": "נחסם, נעצר",
+    "sentence": "The road was obstructed by fallen trees.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To exert",
+    "hebrew": "להתאמץ",
+    "sentence": "You’ll need to exert more effort to succeed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Omen",
+    "hebrew": "אות, סימן",
+    "sentence": "A black cat crossing your path is considered a bad omen.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "herd",
+    "hebrew": "עדר",
+    "sentence": "A herd of sheep was grazing in the field.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Appliance",
+    "hebrew": "מכשיר",
+    "sentence": "This kitchen appliance helps cook food quickly.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Undergo",
+    "hebrew": "לעבור, לחוות",
+    "sentence": "She had to undergo surgery.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Adorn",
+    "hebrew": "לקשט",
+    "sentence": "The hall was adorned with flowers for the wedding.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Indispensable",
+    "hebrew": "הכרחי",
+    "sentence": "Oxygen is indispensable for human life.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Durable",
+    "hebrew": "עמיד",
+    "sentence": "This backpack is made of durable material.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "clarify",
+    "hebrew": "להבהיר",
+    "sentence": "Could you clarify what you meant by that statement?",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Prestige",
+    "hebrew": "יוקרה",
+    "sentence": "The university has gained international prestige over the years.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Suicide",
+    "hebrew": "הִתאַבְּדוּת",
+    "sentence": "The novel dealt with themes of suicide.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Conclusively",
+    "hebrew": "חד משמעי",
+    "sentence": "The evidence conclusively shows that he was there.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Allegedly",
+    "hebrew": "לכאורה",
+    "sentence": "He allegedly stole the money from the safe.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Neglected",
+    "hebrew": "מוזנח",
+    "sentence": "The garden looked neglected and full of weeds.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Soaring",
+    "hebrew": "מזנק",
+    "sentence": "Housing prices are soaring this year.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Humility",
+    "hebrew": "ענווה",
+    "sentence": "He accepted the award with great humility.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Broom",
+    "hebrew": "מטאטא",
+    "sentence": "She grabbed a broom to clean the kitchen floor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Sword",
+    "hebrew": "חרב",
+    "sentence": "The knight drew his sword and prepared for battle.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "candid",
+    "hebrew": "גלוי לב, כן",
+    "sentence": "She gave a candid answer to the question.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Teller",
+    "hebrew": "קופאי",
+    "sentence": "The bank teller helped me withdraw money.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Involuntary",
+    "hebrew": "לֹא רְצוֹנִי",
+    "sentence": "He gave an involuntary shiver.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Explict",
+    "hebrew": "מפורש, ברור",
+    "sentence": "She gave explicit instructions to the team.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Dread",
+    "hebrew": "אֵימָה",
+    "sentence": "He felt dread before the exam.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "To fast",
+    "hebrew": "לצום",
+    "sentence": "Many people fast for religious reasons.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Intervened in",
+    "hebrew": "התערב ב",
+    "sentence": "The teacher intervened in the argument.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "shatter",
+    "hebrew": "לנפץ",
+    "sentence": "The glass will shatter if you drop it.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "grasp",
+    "hebrew": "תופשים",
+    "sentence": "He couldn't grasp the meaning of the joke.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Lamentable",
+    "hebrew": "מְצַעֵר",
+    "sentence": "It was a lamentable decision.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Irrespective",
+    "hebrew": "ללא קשר ל",
+    "sentence": "Irrespective of the weather, the event will proceed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "preishable",
+    "hebrew": "מתכלה, מתלכלך מהר",
+    "sentence": "Milk is perishable product",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Transcribes",
+    "hebrew": "תמלול",
+    "sentence": "She transcribes the interviews for the report.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Verifiable",
+    "hebrew": "ניתן לאימות",
+    "sentence": "The claim was supported by verifiable evidence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "shards",
+    "hebrew": "רסיסים",
+    "sentence": "Glass shards were scattered across the floor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Reliance upon",
+    "hebrew": "הסתמכות על",
+    "sentence": "The country’s reliance upon oil is risky.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "devoted",
+    "hebrew": "להקדיש",
+    "sentence": "She devoted her life to helping others.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Sustain",
+    "hebrew": "לִתְמוֹך",
+    "sentence": "It’s hard to sustain long-term motivation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Parallel lines",
+    "hebrew": "ישרים מקבילים",
+    "sentence": "In geometry, parallel lines never intersect.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "compelling",
+    "hebrew": "משכנעת",
+    "sentence": "Her story was so compelling that everyone listened silently.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deport",
+    "hebrew": "לגרש, להגלות",
+    "sentence": "The immigrants were deported after the raid.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "ruptured",
+    "hebrew": "לקרוע, קרע",
+    "sentence": "He ruptured a ligament while playing soccer.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fundamentally",
+    "hebrew": "בעיקרו",
+    "sentence": "She is fundamentally a very honest person.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To erupt",
+    "hebrew": "להתפרץ, הר געש",
+    "sentence": "The volcano could erupt at any moment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Densely",
+    "hebrew": "צפוף",
+    "sentence": "The city is densely populated.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "conviction",
+    "hebrew": "אמונה",
+    "sentence": "She spoke with deep conviction about her beliefs.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Utilize",
+    "hebrew": "לנצל",
+    "sentence": "We should utilize our resources efficiently.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": true
+  },
+  {
+    "english": "Playwright",
+    "hebrew": "מחזאי",
+    "sentence": "Shakespeare is considered a great playwright.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Rhyme",
+    "hebrew": "חריזה",
+    "sentence": "The poem had a simple and beautiful rhyme.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Preserving",
+    "hebrew": "מִשׁמֶרֶת",
+    "sentence": "She is preserving old family recipes.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "contagious",
+    "hebrew": "מדבקת",
+    "sentence": "Laughter is often contagious in a fun group.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Implict",
+    "hebrew": "מרומז, משתמע, עקיף",
+    "sentence": "His criticism was implicit, not direct.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "abrupt",
+    "hebrew": "פתאומי",
+    "sentence": "an occasionally abrupt narretive",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "obey",
+    "hebrew": "לציית",
+    "sentence": "Children should learn to obey their parents.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Abandon",
+    "hebrew": "לנטוש",
+    "sentence": "He had to abandon the car in the storm.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "deplete",
+    "hebrew": "לרוקן, לדלל",
+    "sentence": "Overfishing can deplete the ocean's resources.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Aroused",
+    "hebrew": "מעורר",
+    "sentence": "The speech aroused great enthusiasm.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Conquistador",
+    "hebrew": "כּוֹבֵשׁ",
+    "sentence": "The conquistador claimed the land for Spain.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "inhabited",
+    "hebrew": "מאכלס",
+    "sentence": "The island is inhabited by rare bird species.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Reverted to",
+    "hebrew": "חזר ל",
+    "sentence": "After a week, he reverted to his old habits.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "magnitude",
+    "hebrew": "סדר גודל",
+    "sentence": "They didn't realize the magnitude of the problem.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Raided",
+    "hebrew": "לפשוט, לפלוש",
+    "sentence": "The police raided the house early in the morning.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Definitively",
+    "hebrew": "באופן סופי",
+    "sentence": "The results definitively proved the theory.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Drought",
+    "hebrew": "בצורת",
+    "sentence": "The drought lasted for nearly a year.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "fertile",
+    "hebrew": "פורייה",
+    "sentence": "The valley is known for its fertile land.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "advanced",
+    "hebrew": "מתקדמת",
+    "sentence": "She is taking an advanced course in physics.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Confidentially",
+    "hebrew": "בחשאי, באופן סודי",
+    "sentence": "She told him confidentially about her plan to leave.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "prioritize",
+    "hebrew": "לתת עדיפות",
+    "sentence": "You should prioritize your tasks to finish on time.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Stagnant",
+    "hebrew": "אדיש",
+    "sentence": "His career remained stagnant for years.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Apprehends",
+    "hebrew": "לתפוס",
+    "sentence": "The police apprehends suspects quickly.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Scattered",
+    "hebrew": "מפוזר",
+    "sentence": "The toys were scattered all over the floor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Stumbled",
+    "hebrew": "מעד",
+    "sentence": "He stumbled on the stairs in the dark.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Infrared",
+    "hebrew": "אינפרא אדום",
+    "sentence": "The camera detects infrared radiation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Lift",
+    "hebrew": "להרים, להניף",
+    "sentence": "As the fog began to lift, the city became visible again.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "enlarged",
+    "hebrew": "מוגדל",
+    "sentence": "The image was enlarged for better visibility.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Tinge",
+    "hebrew": "צבע, גוון",
+    "sentence": "Her voice had a tinge of sadness.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Vocation",
+    "hebrew": "מקצוע, קריאה",
+    "sentence": "Teaching is more than a job—it's a vocation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "alter",
+    "hebrew": "לשנות, לתקן",
+    "sentence": "She decided to alter the dress for a better fit.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To emit",
+    "hebrew": "לפלוט",
+    "sentence": "The machine emits a low buzzing sound.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "annually",
+    "hebrew": "מדי שנה",
+    "sentence": "The event takes place annually in June.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "distinguished",
+    "hebrew": "מכובד",
+    "sentence": "He is a distinguished professor at the university.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Linger",
+    "hebrew": "משתהה, השהייה",
+    "sentence": "She liked to linger at the café long after her coffee was gone.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Scenery",
+    "hebrew": "נוף",
+    "sentence": "The mountain scenery was breathtaking.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Constructed",
+    "hebrew": "בנוי",
+    "sentence": "The bridge was constructed in just two months.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "To flee",
+    "hebrew": "להימלט",
+    "sentence": "The villagers had to flee the flood.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Erected",
+    "hebrew": "הוקם",
+    "sentence": "A statue was erected in his honor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Outdoing",
+    "hebrew": "להתעלות",
+    "sentence": "She is always outdoing herself.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Allege",
+    "hebrew": "לטעון",
+    "sentence": "The newspaper alleges that the mayor took bribes.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Prodigy",
+    "hebrew": "עילוי",
+    "sentence": "The child prodigy could play Mozart at the age of five.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "constitude",
+    "hebrew": "להוות",
+    "sentence": "single parents constitude a great proporition of the poor",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Decadence",
+    "hebrew": "התנוונות",
+    "sentence": "The novel portrayed the decadence of society.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To impair",
+    "hebrew": "לפגום, להחליש",
+    "sentence": "Alcohol can impair your judgment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Heresy",
+    "hebrew": "כפירה",
+    "sentence": "In the past, heresy was punishable by death.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Resolutely",
+    "hebrew": "בנחרצות",
+    "sentence": "He resolutely refused to change his decision.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Recitation",
+    "hebrew": "דקלום",
+    "sentence": "She gave a flawless recitation of the poem.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Subtle",
+    "hebrew": "מעודן, עדין",
+    "sentence": "There was a subtle change in her tone.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "tedious",
+    "hebrew": "מייגע, משעמם",
+    "sentence": "a tedious journey",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "annually",
+    "hebrew": "מדי שנה",
+    "sentence": "This event takes place annually in March.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Vacate",
+    "hebrew": "לפנות",
+    "sentence": "Please vacate the room by noon.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "contemporary",
+    "hebrew": "עכשווי",
+    "sentence": "The gallery features contemporary art.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "negate",
+    "hebrew": "לשלול",
+    "sentence": "One error does not negate the value of the entire report.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Tame",
+    "hebrew": "לאלף",
+    "sentence": "He managed to tame the wild horse.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Prominent",
+    "hebrew": "בולט",
+    "sentence": "He is a prominent figure in the legal community.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "deviate",
+    "hebrew": "לסטות",
+    "sentence": "Try not to deviate from the original instructions.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To persuade",
+    "hebrew": "לשכנע",
+    "sentence": "She tried to persuade him to join the team.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": true
+  },
+  {
+    "english": "Advisors",
+    "hebrew": "יועצים",
+    "sentence": "The president relies on his advisors.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Pertain",
+    "hebrew": "היה שייך ל",
+    "sentence": "These documents pertain to the case.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "deformed",
+    "hebrew": "מעוות",
+    "sentence": "The metal bar became deformed under pressure.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Movable",
+    "hebrew": "זָחִיחַ",
+    "sentence": "The table is light and easily movable.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Shrug",
+    "hebrew": "משך בכתפיים",
+    "sentence": "She just shrugged when asked about the rumors.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deterioration",
+    "hebrew": "הְתדַרדְרוּת",
+    "sentence": "His health showed signs of deterioration.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "intrusive",
+    "hebrew": "פולשני",
+    "sentence": "The reporter's questions were too intrusive and made her uncomfortable.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Narcotics",
+    "hebrew": "סמים",
+    "sentence": "He was arrested for possessing narcotics.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "underscore",
+    "hebrew": "להדגיש",
+    "sentence": "The speech underscored the importance of equality.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Credible",
+    "hebrew": "מְהֵימָן",
+    "sentence": "The witness provided a credible account.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Raided",
+    "hebrew": "לפשוט, לפלוש",
+    "sentence": "The police raided the building at dawn.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "discrepancy",
+    "hebrew": "סתירה",
+    "sentence": "There’s a discrepancy between the reports.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "held",
+    "hebrew": "נערך",
+    "sentence": "The ceremony was held in a beautiful garden.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "deceived",
+    "hebrew": "מרומה",
+    "sentence": "She felt deceived by the false promises.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Unforeseen",
+    "hebrew": "בלתי צפוי",
+    "sentence": "The project was delayed due to unforeseen events.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Retaliation for",
+    "hebrew": "נקמה על",
+    "sentence": "The attack was in retaliation for the bombing.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Cumulative",
+    "hebrew": "מִצטַבֵּר",
+    "sentence": "The damage was the result of cumulative stress.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "epicenter",
+    "hebrew": "מוקד",
+    "sentence": "The earthquake's epicenter was near the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Propaganda",
+    "hebrew": "תַעֲמוּלָה",
+    "sentence": "The regime used propaganda to control opinions.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Opposed",
+    "hebrew": "מִתנַגֵד",
+    "sentence": "He strongly opposed the new law.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Impede",
+    "hebrew": "לְעַכֵּב",
+    "sentence": "The injury could impede his progress.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Uproar",
+    "hebrew": "המולה",
+    "sentence": "The announcement caused an uproar.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "hyena",
+    "hebrew": "צבוע",
+    "sentence": "The hyena laughed loudly in the night.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Handicap",
+    "hebrew": "מגבלה, נכות",
+    "sentence": "She overcame her physical handicap to succeed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "restrain",
+    "hebrew": "לרסן",
+    "sentence": "He tried to restrain his anger",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Gills",
+    "hebrew": "זימים",
+    "sentence": "Fish breathe through their gills.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Clay table",
+    "hebrew": "שולחן חרס",
+    "sentence": "They discovered a clay table with ancient writings.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "inhibit",
+    "hebrew": "לעכב",
+    "sentence": "the medicine inhibits the growth of bacteria",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Prestigious",
+    "hebrew": "יוקרתי",
+    "sentence": "She received an award from a prestigious institution.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "determine",
+    "hebrew": "קובע",
+    "sentence": "You can determine your own future by your choices.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Depict",
+    "hebrew": "לתאר, להציג",
+    "sentence": "The painting depicts a peaceful scene.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Hibernate",
+    "hebrew": "שנת חורף",
+    "sentence": "Bears hibernate during the cold winter months.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Dispense",
+    "hebrew": "לחלק",
+    "sentence": "The machine can dispense snacks and drinks.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "acquainted",
+    "hebrew": "התוודע",
+    "sentence": "We became acquainted during the first week of college.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Workforce",
+    "hebrew": "כוח אדם",
+    "sentence": "The company expanded its workforce last year.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Engraver",
+    "hebrew": "חרט, גילף",
+    "sentence": "The engraver carefully carved the letters into the stone.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "mined",
+    "hebrew": "לחפור, ממוקש",
+    "sentence": "They mined the area for precious metals.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Seal",
+    "hebrew": "כלב ים",
+    "sentence": "The seal clapped its flippers and slid into the water.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Decadent",
+    "hebrew": "מושחת",
+    "sentence": "The party was filled with decadent desserts and luxury.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "acquainted",
+    "hebrew": "התוודע",
+    "sentence": "They became acquainted during the workshop.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Hazard",
+    "hebrew": "סכנה, סיכון",
+    "sentence": "Slippery floors are a safety hazard.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Endure",
+    "hebrew": "לסבול",
+    "sentence": "They had to endure extreme heat during the hike.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Foster",
+    "hebrew": "לְטַפֵּחַ",
+    "sentence": "The school aims to foster creativity.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Explicit",
+    "hebrew": "ברור, מפורש",
+    "sentence": "The instructions were clear and explicit.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Monumental",
+    "hebrew": "עצום, עומד לזכרון",
+    "sentence": "It was a monumental achievement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "defied",
+    "hebrew": "התנגד",
+    "sentence": "She defied the odds and became a successful artist.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Triumphant",
+    "hebrew": "ניצחון, הישג",
+    "sentence": "She felt triumphant after winning the race.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Discreet",
+    "hebrew": "שקט, בעל דיסקרטיות",
+    "sentence": "She was very discreet about their relationship.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "deficiency",
+    "hebrew": "חוסר",
+    "sentence": "Iron deficiency can lead to fatigue and weakness.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Certification",
+    "hebrew": "הסמכה",
+    "sentence": "She received certification as a yoga instructor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "refute",
+    "hebrew": "להפריך",
+    "sentence": "The scientist tried to refute the popular theory.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "integrate",
+    "hebrew": "לשלב",
+    "sentence": "We must integrate these changes into the final design.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Approximately",
+    "hebrew": "בערך",
+    "sentence": "The flight will take approximately three hours.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Abstraction",
+    "hebrew": "הַפשָׁטָה",
+    "sentence": "The painting was a brilliant abstraction of reality.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Intrigued",
+    "hebrew": "מרתק, מעורר עניין",
+    "sentence": "I was intrigued by the mystery novel's plot twist.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Migration",
+    "hebrew": "הגירה",
+    "sentence": "Bird migration occurs in the fall and spring.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "To torment",
+    "hebrew": "לענות",
+    "sentence": "The bully used to torment the younger kids.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "distribution",
+    "hebrew": "הפצה",
+    "sentence": "The company is responsible for the distribution of the goods.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Yawn",
+    "hebrew": "פיהוק",
+    "sentence": "I tried to hide my yawn during the meeting.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "violins",
+    "hebrew": "כינורות",
+    "sentence": "The violins played a haunting melody.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Diversions",
+    "hebrew": "הסחות",
+    "sentence": "He used jokes as clever diversions to avoid answering.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Disarmament",
+    "hebrew": "פֵּרוּק הַנֶשֶׁק",
+    "sentence": "The treaty called for disarmament.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Confiscates",
+    "hebrew": "מחרים",
+    "sentence": "The guard confiscates any prohibited items.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "discrepancy",
+    "hebrew": "סתירה",
+    "sentence": "There is a discrepancy between the two reports.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deliberation",
+    "hebrew": "דִיוּן",
+    "sentence": "The decision was made after careful deliberation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Assumption",
+    "hebrew": "הַנָחָה",
+    "sentence": "The plan is based on the assumption that it will not rain.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Penalty",
+    "hebrew": "עונש",
+    "sentence": "The player received a penalty for a foul.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Ineptitude",
+    "hebrew": "חוסר יכולת",
+    "sentence": "His ineptitude made him unfit for the job.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Scribes",
+    "hebrew": "סופרים",
+    "sentence": "Scribes copied manuscripts by hand before printing existed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Heir",
+    "hebrew": "יורש",
+    "sentence": "He is the rightful heir to the throne.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Relatively",
+    "hebrew": "יחסית",
+    "sentence": "The test was relatively easy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Allocated",
+    "hebrew": "הוקצה, מוקצה",
+    "sentence": "Each student was allocated a locker for the semester.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Averting",
+    "hebrew": "למנוע",
+    "sentence": "They succeeded in averting a crisis.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Expelled",
+    "hebrew": "מְגוּרָשׁ",
+    "sentence": "He was expelled from school.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "legislated",
+    "hebrew": "חוקקו",
+    "sentence": "New traffic rules were legislated last month.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "integrate",
+    "hebrew": "לשלב",
+    "sentence": "We need to integrate this tool into the current system.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Experiment",
+    "hebrew": "לְנַסוֹת",
+    "sentence": "The scientists conducted an experiment on plant growth.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "mishaps",
+    "hebrew": "תקלות",
+    "sentence": "The trip was full of unexpected mishaps.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Extinct",
+    "hebrew": "נכחד",
+    "sentence": "Dinosaurs have been extinct for millions of years.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "incentives",
+    "hebrew": "תמריץ",
+    "sentence": "Tax incentives encourage investment in clean energy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Barren",
+    "hebrew": "צָחִיחַ, חסר חיים",
+    "sentence": "The desert was completely barren.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Sufficient",
+    "hebrew": "מספיק",
+    "sentence": "One slice of bread is sufficient for now.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Hostile",
+    "hebrew": "עוין",
+    "sentence": "He gave her a hostile look when she entered the room.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Paralyzed",
+    "hebrew": "שיתק",
+    "sentence": "Fear paralyzed him and he couldn’t move a muscle.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "Derision",
+    "hebrew": "לעג, זלזול",
+    "sentence": "His suggestion was met with derision.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "undermine",
+    "hebrew": "לחתור",
+    "sentence": "His comments were meant to undermine her authority.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Swiftly",
+    "hebrew": "במהירות",
+    "sentence": "The bird flew swiftly across the sky.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Invoking",
+    "hebrew": "מעורר",
+    "sentence": "The article is invoking a sense of nostalgia.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Contend",
+    "hebrew": "טוענים",
+    "sentence": "Scientists contend that climate change is caused by human activity.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Morose",
+    "hebrew": "קוֹדֵר",
+    "sentence": "She became morose after the breakup.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Labyrinth",
+    "hebrew": "מבוך",
+    "sentence": "The old castle had a labyrinth of hidden tunnels.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "alter",
+    "hebrew": "לשנות, לתקן",
+    "sentence": "You can alter the design to suit your needs.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Reptile",
+    "hebrew": "זוחל",
+    "sentence": "A snake is a type of reptile.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Unsustainable",
+    "hebrew": "אינו בר קיימא",
+    "sentence": "The plan is economically unsustainable.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Marble",
+    "hebrew": "שיש, גולה",
+    "sentence": "The floor was made of white marble.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Incentive",
+    "hebrew": "תמריץ",
+    "sentence": "The bonus served as an incentive to work harder.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Transfusion",
+    "hebrew": "עירוי",
+    "sentence": "He received a blood transfusion after surgery.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "rubble",
+    "hebrew": "הריסות",
+    "sentence": "Rescue teams searched through the rubble.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Wound",
+    "hebrew": "פצע",
+    "sentence": "He had a deep wound on his leg.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Sober",
+    "hebrew": "רציני, נטול אלכוהול",
+    "sentence": "He gave a sober assessment of the situation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To mock",
+    "hebrew": "ללעוג",
+    "sentence": "It’s cruel to mock someone’s accent.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Revival",
+    "hebrew": "התחדשות, תקומה",
+    "sentence": "The festival marked the cultural revival of the town.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Basement",
+    "hebrew": "מרתף",
+    "sentence": "They keep old furniture in the basement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 3,
+    "chosen": false
+  },
+  {
+    "english": "repulsion",
+    "hebrew": "דחייה",
+    "sentence": "He felt instant repulsion at the sight of the injury.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Slight",
+    "hebrew": "מועט, זעום",
+    "sentence": "There was a slight improvement in her condition.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Impractical",
+    "hebrew": "לֹא מַעֲשִׂי",
+    "sentence": "That plan is too impractical to work.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Endeavoring",
+    "hebrew": "מאמץ",
+    "sentence": "She is endeavoring to improve her skills.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Quarter",
+    "hebrew": "רבעון",
+    "sentence": "Sales increased significantly in the last quarter.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Envious",
+    "hebrew": "מְקַנֵא",
+    "sentence": "She was envious of her friend’s success.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Inception",
+    "hebrew": "התחלה",
+    "sentence": "The project has been a success since its inception.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Enthusiasm",
+    "hebrew": "התלהבות",
+    "sentence": "His enthusiasm for learning is inspiring.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "incentives",
+    "hebrew": "תמריץ",
+    "sentence": "The company offered incentives to boost productivity.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Perhaps",
+    "hebrew": "אולי, ייתכן",
+    "sentence": "Perhaps we should try a different approach.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Autumn",
+    "hebrew": "סתיו",
+    "sentence": "The leaves change color in autumn.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Confound",
+    "hebrew": "לבלבל",
+    "sentence": "His strange behavior confounded his friends.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Consecrate",
+    "hebrew": "קידש",
+    "sentence": "The ground was consecrated before the ceremony began.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "fair",
+    "hebrew": "יריד",
+    "sentence": "We visited a local craft fair this weekend.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Cautioned",
+    "hebrew": "להזהיר",
+    "sentence": "The doctor cautioned",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "sensor",
+    "hebrew": "חיישן",
+    "sentence": "The sensor detected movement near the door.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Adorn",
+    "hebrew": "לקשט",
+    "sentence": "The walls were adorned with beautiful paintings.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To surrender",
+    "hebrew": "להיכנע",
+    "sentence": "The soldiers had to surrender after running out of supplies.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Routes",
+    "hebrew": "מסלול",
+    "sentence": "There are two main routes to the village.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "emerged from",
+    "hebrew": "מופיע",
+    "sentence": "The sun emerged from behind the clouds.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Dame",
+    "hebrew": "גבירה",
+    "sentence": "The queen honored her as a dame.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "prematurely",
+    "hebrew": "בטרם עת",
+    "sentence": "He made a decision prematurely without enough data.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Suicidal",
+    "hebrew": "התאבדותי",
+    "sentence": "He had suicidal thoughts and needed help.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Stale",
+    "hebrew": "מעופש",
+    "sentence": "The bread was stale after sitting out all week.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Linguists",
+    "hebrew": "בלשנים",
+    "sentence": "Linguists study the structure and evolution of language.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Sparkle",
+    "hebrew": "ניצוץ",
+    "sentence": "Her eyes had a joyful sparkle when she saw the surprise.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "Pursuit",
+    "hebrew": "מרדף",
+    "sentence": "They were in pursuit of the truth.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "assess",
+    "hebrew": "להעריך",
+    "sentence": "We need to assess the damage before proceeding.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "reluctant",
+    "hebrew": "לא מתלהב",
+    "sentence": "He was reluctant to admit he had made a mistake.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Bitter",
+    "hebrew": "מריר",
+    "sentence": "The coffee was too bitter for my taste.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Disregard",
+    "hebrew": "התעלמות",
+    "sentence": "His comments showed a disregard for the rules.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Utility",
+    "hebrew": "שירות",
+    "sentence": "The apartment rent includes all utility bills.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Persuade",
+    "hebrew": "לשכנע",
+    "sentence": "He tried to persuade her to come with him.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "sustainable",
+    "hebrew": "בר קיימא",
+    "sentence": "We need sustainable solutions for the environment.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": true
+  },
+  {
+    "english": "Fundamental",
+    "hebrew": "בסיסי, יסודי",
+    "sentence": "Respect is fundamental to any relationship.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "satellite",
+    "hebrew": "לווין",
+    "sentence": "The weather satellite captured images of the storm.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Underlying",
+    "hebrew": "משתמע, נרמז",
+    "sentence": "The speech had an underlying message.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "elaborate",
+    "hebrew": "לפרט, להרחיב",
+    "sentence": "Please elaborate on your answer during the presentation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Sketched",
+    "hebrew": "שירטט",
+    "sentence": "She quickly sketched the landscape in her notebook.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "prescribe",
+    "hebrew": "לרשום מרשם",
+    "sentence": "The doctor will prescribe antibiotics.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Class",
+    "hebrew": "כיתה, סוג",
+    "sentence": "This is a first-class restaurant.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "Slope",
+    "hebrew": "מדרון, שיפוע",
+    "sentence": "The kids went skiing down the steep slope.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Profound",
+    "hebrew": "עָמוֹק",
+    "sentence": "The book had a profound impact on me.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Opposition",
+    "hebrew": "התנגדות",
+    "sentence": "There was strong opposition to the new law.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Indignant",
+    "hebrew": "זועם, ממורמר",
+    "sentence": "She was indignant at the unfair treatment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "repulsion",
+    "hebrew": "דחייה",
+    "sentence": "She felt repulsion at the smell.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Backdrop",
+    "hebrew": "רקע",
+    "sentence": "The mountains formed a beautiful backdrop for the wedding.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Shoulder to",
+    "hebrew": "לקחת על עצמו",
+    "sentence": "He had to shoulder the responsibility.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "scrutinize",
+    "hebrew": "לבחון",
+    "sentence": "The documents were carefully scrutinized for errors.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Rug",
+    "hebrew": "שטיח",
+    "sentence": "She bought a colorful rug for the living room.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Valiantly",
+    "hebrew": "באומץ",
+    "sentence": "The firefighter acted valiantly to save the child.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Endure",
+    "hebrew": "לסבול",
+    "sentence": "He had to endure months of physical therapy after the accident.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "attributed",
+    "hebrew": "ייחסו",
+    "sentence": "The painting was wrongly attributed to Picasso.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "enlarged",
+    "hebrew": "מוגדל",
+    "sentence": "The image was enlarged for clarity.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Burglar",
+    "hebrew": "פורץ",
+    "sentence": "The burglar broke in through the window.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "elaborate",
+    "hebrew": "לפרט, להרחיב",
+    "sentence": "I will now use the word 'elaborate' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "epicenter",
+    "hebrew": "מוקד",
+    "sentence": "The epicenter of the earthquake was 50 kilometers offshore.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Retort",
+    "hebrew": "תשובה מוחצת",
+    "sentence": "He gave a sharp retort to her comment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To terminate",
+    "hebrew": "לסיים, לגמור, להסתיים",
+    "sentence": "The company decided to terminate his contract.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Fascination",
+    "hebrew": "קסם",
+    "sentence": "Her fascination with astronomy began in childhood.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Invariably",
+    "hebrew": "תמיד, ללא שינוי",
+    "sentence": "He invariably drinks coffee in the morning.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "articulate",
+    "hebrew": "לבטא",
+    "sentence": "She can clearly articulate her thoughts in meetings.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "clarify",
+    "hebrew": "להבהיר",
+    "sentence": "Could you clarify what you mean by that?",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Dentures",
+    "hebrew": "שיניים תותבות",
+    "sentence": "The elderly man wore dentures.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "hypothesize",
+    "hebrew": "לשער",
+    "sentence": "Scientists hypothesize that life may exist on other planets.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "hypothesize",
+    "hebrew": "לשער",
+    "sentence": "Scientists hypothesize that the planet once had water.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Inspect",
+    "hebrew": "לבדוק",
+    "sentence": "They came to inspect the building for safety issues.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "shatter",
+    "hebrew": "לנפץ",
+    "sentence": "The glass will shatter if you drop it.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Defer",
+    "hebrew": "להסכים, לעכב, לדחות",
+    "sentence": "We decided to defer the meeting to next week.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Handful",
+    "hebrew": "קומץ",
+    "sentence": "Only a handful of people showed up at the meeting.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Virtually",
+    "hebrew": "כִּמעַט",
+    "sentence": "Virtually all the tickets were sold out.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Hail",
+    "hebrew": "ברד",
+    "sentence": "A sudden storm brought hail the size of golf balls.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Relay",
+    "hebrew": "להעביר",
+    "sentence": "Please relay the message to your supervisor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Thwart",
+    "hebrew": "סיכל מאמצים, התנגד",
+    "sentence": "The guards thwarted the robbery attempt.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Attribute",
+    "hebrew": "לייחס",
+    "sentence": "We attribute his success to hard work",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Supplement",
+    "hebrew": "תוסף",
+    "sentence": "He takes a vitamin supplement every morning.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fortnight",
+    "hebrew": "שבועיים",
+    "sentence": "They planned a vacation for a fortnight.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Alert",
+    "hebrew": "מוכן, ערני",
+    "sentence": "You must stay alert while driving at night.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Encountered",
+    "hebrew": "נתקל ב-",
+    "sentence": "They encountered many difficulties on their journey.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Prey",
+    "hebrew": "טרף",
+    "sentence": "The lion chased its prey across the savannah.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Stiff",
+    "hebrew": "נוקשה",
+    "sentence": "The jacket was stiff from the cold wind.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "mishaps",
+    "hebrew": "תקלות",
+    "sentence": "Several mishaps occurred during the trip.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Deceive",
+    "hebrew": "לרמות, להונות",
+    "sentence": "He tried to deceive the audience with lies.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deprive",
+    "hebrew": "לקפח, למנוע",
+    "sentence": "Hunger deprives children of their strength.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Deploy",
+    "hebrew": "לפרוס, להציב, להתפרס",
+    "sentence": "Troops were deployed along the border.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "moray eel",
+    "hebrew": "צלופח",
+    "sentence": "A moray eel was hiding between the rocks.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "phosphorus",
+    "hebrew": "זרחן",
+    "sentence": "Phosphorus is a chemical element used in fertilizers.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Template",
+    "hebrew": "תבנית",
+    "sentence": "Use this template to write your essay.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "wrist",
+    "hebrew": "שורש כף יד",
+    "sentence": "She wore a bracelet around her wrist.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Apprehend",
+    "hebrew": "לתפוס",
+    "sentence": "The police managed to apprehend the suspect.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "deficiency",
+    "hebrew": "חוסר",
+    "sentence": "Iron deficiency is common among young women.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To reinforce",
+    "hebrew": "לחזק, לתגבר",
+    "sentence": "The teacher used examples to reinforce the lesson.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "retrofit",
+    "hebrew": "לשדרג מערכת קיימת",
+    "sentence": "The building was retrofitted to be earthquake-resistant.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Concentration",
+    "hebrew": "ריכוז",
+    "sentence": "Her concentration improved after a short break.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Eccentric",
+    "hebrew": "תִמהוֹנִי",
+    "sentence": "He’s known for his eccentric behavior.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "portraits",
+    "hebrew": "דיוקן",
+    "sentence": "The gallery featured portraits of historical figures.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Demonstrates",
+    "hebrew": "להדגים",
+    "sentence": "The teacher demonstrates how to solve the equation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "initial",
+    "hebrew": "התחלתי",
+    "sentence": "The initial results were promising.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "satellite",
+    "hebrew": "לווין",
+    "sentence": "The satellite transmitted high-resolution images.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To repress",
+    "hebrew": "להדחיק",
+    "sentence": "She tried to repress the painful memories of her childhood.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Dense",
+    "hebrew": "צפוף",
+    "sentence": "The forest is dense and hard to walk through.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "reconcile",
+    "hebrew": "לפייס",
+    "sentence": "The couple tried to reconcile after the disagreement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Expulsion",
+    "hebrew": "סילוק, גירוש",
+    "sentence": "He faced expulsion from school.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "lactation",
+    "hebrew": "הנקה",
+    "sentence": "Lactation usually begins a few days after childbirth.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "occurrence",
+    "hebrew": "התרחש",
+    "sentence": "Rain is a common occurrence in this region.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "description",
+    "hebrew": "תיאור",
+    "sentence": "I will now use the word 'description' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "revoke",
+    "hebrew": "לשלול",
+    "sentence": "His license was revoked after multiple violations.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Denote",
+    "hebrew": "לציין",
+    "sentence": "A red flag usually denotes danger.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Pedestal",
+    "hebrew": "כיסא רמה, במה",
+    "sentence": "The statue stood on a marble pedestal.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "held",
+    "hebrew": "נערך",
+    "sentence": "The meeting was held on Tuesday morning.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "imminent",
+    "hebrew": "עומד להתרחש, קרוב",
+    "sentence": "The storm's arrival is imminent.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Intact",
+    "hebrew": "שלם, נשמר",
+    "sentence": "The package arrived intact despite the long journey.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Decipher",
+    "hebrew": "לפענח",
+    "sentence": "Can you decipher this ancient script?",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Dignified",
+    "hebrew": "מכובד",
+    "sentence": "He gave a dignified response despite the insult.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "facilitate",
+    "hebrew": "לסייע, להקל",
+    "sentence": "I will now use the word 'facilitate' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "facilitate",
+    "hebrew": "לסייע, להקל",
+    "sentence": "This platform helps facilitate communication between students.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fulfill",
+    "hebrew": "מילא",
+    "sentence": "He worked hard to fulfill his dreams.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Unprecedented",
+    "hebrew": "חסר תקדים",
+    "sentence": "The decision was truly unprecedented.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Reinvent",
+    "hebrew": "להמציא מחדש",
+    "sentence": "The company had to reinvent its brand to stay relevant.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "To gather",
+    "hebrew": "לאסוף, להתאסף",
+    "sentence": "People began to gather in the town square.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Shift",
+    "hebrew": "תזוזה, מעבר",
+    "sentence": "There was a sudden shift in the conversation's tone.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Decimate",
+    "hebrew": "להשמיד, להכחיד",
+    "sentence": "The disease decimated the population.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Generous",
+    "hebrew": "נָדִיב",
+    "sentence": "She is known for being generous with her time.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "vehicles",
+    "hebrew": "כלי רכב",
+    "sentence": "All vehicles must pass an emissions test.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Retain",
+    "hebrew": "לִשְׁמוֹר",
+    "sentence": "She struggled to retain all the information.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Impulse",
+    "hebrew": "דַחַף",
+    "sentence": "He acted on impulse and bought the car.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Demonstrator",
+    "hebrew": "מַפגִין",
+    "sentence": "The police arrested a demonstrator.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Lenience",
+    "hebrew": "סלחנות, גמישות יתר",
+    "sentence": "The judge showed lenience to the first-time offender.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Sustained",
+    "hebrew": "ממושך",
+    "sentence": "She suffered a sustained injury during the match.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "assess",
+    "hebrew": "להעריך",
+    "sentence": "I will now use the word 'assess' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Absorbent",
+    "hebrew": "סוֹפֵג",
+    "sentence": "This towel is very absorbent.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Recipients",
+    "hebrew": "מקבלים",
+    "sentence": "The scholarship recipients were announced last week.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Expatriates",
+    "hebrew": "יצאו מהמדינה",
+    "sentence": "Many expatriates live in the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Preoccupied",
+    "hebrew": "מוטרד",
+    "sentence": "He was too preoccupied with work to notice.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "horns",
+    "hebrew": "קרניים",
+    "sentence": "The bull lowered its horns in defense.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Authority",
+    "hebrew": "סמכות, רשות",
+    "sentence": "The teacher has the authority to discipline students.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Fluctuate",
+    "hebrew": "משתנה",
+    "sentence": "Prices fluctuate depending on demand.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "To hijack",
+    "hebrew": "לחטוף מטוס או כלי שיט",
+    "sentence": "The terrorists planned to hijack the plane.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "signified",
+    "hebrew": "רמזו",
+    "sentence": "His silence signified his agreement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To contradict",
+    "hebrew": "לסתור",
+    "sentence": "His actions contradict his words.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "External",
+    "hebrew": "חִיצוֹנִי",
+    "sentence": "The medicine is for external use only.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Endorse",
+    "hebrew": "לְאַשֵׁר",
+    "sentence": "Many celebrities endorse this brand.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Adversaries",
+    "hebrew": "יריבים",
+    "sentence": "The two political adversaries faced off in a heated debate.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Hereditary",
+    "hebrew": "תורשתי",
+    "sentence": "The disease is hereditary and runs in families.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "underscore",
+    "hebrew": "להדגיש",
+    "sentence": "I will now use the word 'underscore' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Unveil",
+    "hebrew": "לחשוף",
+    "sentence": "The company will unveil the new product today.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Revenue",
+    "hebrew": "הכנסה, רווח, תשואה",
+    "sentence": "The company’s annual revenue increased significantly.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Mud",
+    "hebrew": "בוץ",
+    "sentence": "The car got stuck in the mud.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": true
+  },
+  {
+    "english": "Proclamation",
+    "hebrew": "כרוז",
+    "sentence": "The king issued a proclamation to celebrate the victory.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Disillusioned",
+    "hebrew": "מאוכזבים",
+    "sentence": "She became disillusioned with politics.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Cease",
+    "hebrew": "להפסיק",
+    "sentence": "The factory was ordered to cease operations.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "advocate",
+    "hebrew": "עורך דין, תומכים",
+    "sentence": "She is a strong advocate for human rights.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To derision",
+    "hebrew": "ללעוג",
+    "sentence": "His ideas were met with laughter and derision.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Troupe",
+    "hebrew": "להקה",
+    "sentence": "The dance troupe performed beautifully.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "contagious",
+    "hebrew": "מדבקת",
+    "sentence": "Laughter is often contagious.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "ruptured",
+    "hebrew": "לקרוע, קרע",
+    "sentence": "He ruptured a ligament during the game.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "In result",
+    "hebrew": "להוביל ל",
+    "sentence": "His actions in result caused a major change.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Perspiration",
+    "hebrew": "זיעה",
+    "sentence": "The perspiration on his forehead revealed how nervous he was.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "anticipating",
+    "hebrew": "ציפייה ל",
+    "sentence": "They are anticipating the arrival of their guests.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Acquiesce",
+    "hebrew": "להסכים",
+    "sentence": "He reluctantly acquiesced to their demands.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Distinction",
+    "hebrew": "הַבחָנָה",
+    "sentence": "There is a clear distinction between the two theories.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Humiliates",
+    "hebrew": "משפיל",
+    "sentence": "The coach humiliates players who make mistakes.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "fleet",
+    "hebrew": "צי",
+    "sentence": "The navy has an impressive fleet of modern ships.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Outbreak",
+    "hebrew": "התפרצות",
+    "sentence": "There was a sudden outbreak of flu in the school.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Recur",
+    "hebrew": "להתרחש שנית",
+    "sentence": "The same problem continued to recur every month.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Polls",
+    "hebrew": "סקרים",
+    "sentence": "The polls show a close race between the candidates.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Possession",
+    "hebrew": "בעלות",
+    "sentence": "He lost possession of the house after the trial.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": true
+  },
+  {
+    "english": "Trailblazer",
+    "hebrew": "חלוץ",
+    "sentence": "She was a trailblazer in science.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fasten",
+    "hebrew": "מהדק",
+    "sentence": "Please fasten your seatbelt.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "flooding",
+    "hebrew": "הצפה",
+    "sentence": "Heavy rains caused widespread flooding in the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Marsupial",
+    "hebrew": "חיית כיס",
+    "sentence": "A kangaroo is a well-known marsupial.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "dispute",
+    "hebrew": "לערער",
+    "sentence": "They had a serious dispute over the contract terms.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Disturbed",
+    "hebrew": "מוּפרָע",
+    "sentence": "The loud noise disturbed the students.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Presumed",
+    "hebrew": "משוער",
+    "sentence": "He is presumed innocent until proven guilty.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Pleaded with",
+    "hebrew": "התחנן בפני",
+    "sentence": "He pleaded with her to stay.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Deed",
+    "hebrew": "שטר קניין, מעשה",
+    "sentence": "She signed the deed to her new home.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Prior",
+    "hebrew": "קוֹדֵם",
+    "sentence": "He had no prior experience in teaching.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "gradually",
+    "hebrew": "בהדרגה",
+    "sentence": "Her confidence improved gradually over the year.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "comprehensive",
+    "hebrew": "מקיף",
+    "sentence": "She wrote a comprehensive analysis of the case.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "magnificent",
+    "hebrew": "מרשימה",
+    "sentence": "The view from the mountain was simply magnificent.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Extension",
+    "hebrew": "שלוחה",
+    "sentence": "You can reach me at extension 204.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Spine",
+    "hebrew": "עמוד שדרה",
+    "sentence": "The book’s spine was damaged after years of use.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Intently",
+    "hebrew": "בריכוז",
+    "sentence": "She listened intently to every word.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "repository",
+    "hebrew": "מאגר",
+    "sentence": "I will now use the word 'repository' in a sentence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Esteem",
+    "hebrew": "הערכה",
+    "sentence": "He is held in high esteem by his peers.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Commentaries",
+    "hebrew": "פרשנויות",
+    "sentence": "The teacher provided commentaries on the poem.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Taint",
+    "hebrew": "להכתים, לזהם",
+    "sentence": "The scandal tainted his reputation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Decimated",
+    "hebrew": "השמיד",
+    "sentence": "The storm decimated the coastal town.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "diverse",
+    "hebrew": "מגוון",
+    "sentence": "Our team is made up of people from diverse backgrounds.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Coordinate",
+    "hebrew": "לְתַאֵם",
+    "sentence": "The team worked to coordinate their efforts.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Upbringing",
+    "hebrew": "גידול ילדים",
+    "sentence": "She had a strict religious upbringing.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "misleading",
+    "hebrew": "להטעות",
+    "sentence": "The advertisement was considered misleading by many customers.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "conference",
+    "hebrew": "כנס",
+    "sentence": "She is attending a conference in Berlin this week.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "elaborate",
+    "hebrew": "לפרט, להרחיב",
+    "sentence": "Can you elaborate on your plan for next week?",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "infiltrated",
+    "hebrew": "הסתנן",
+    "sentence": "The spy infiltrated the organization without being noticed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "prioritize",
+    "hebrew": "לתת עדיפות",
+    "sentence": "You should prioritize your health over work.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Illustration",
+    "hebrew": "הדגמה",
+    "sentence": "The book includes an illustration of the process.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Cobbled",
+    "hebrew": "מרוצף",
+    "sentence": "The old city was filled with cobbled streets.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "consulted",
+    "hebrew": "התייעץ",
+    "sentence": "He consulted a lawyer before signing the contract.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Delinquency",
+    "hebrew": "עבריינות",
+    "sentence": "The program aims to reduce youth delinquency.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Sigh",
+    "hebrew": "להיאנח",
+    "sentence": "She let out a deep sigh of relief.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "articulate",
+    "hebrew": "לבטא",
+    "sentence": "He could clearly articulate his thoughts.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "vulnerability",
+    "hebrew": "פגיעות",
+    "sentence": "He showed emotional vulnerability during the interview.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "lactation",
+    "hebrew": "הנקה",
+    "sentence": "The mother experienced difficulties during lactation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "inconceivable",
+    "hebrew": "בלתי נתפס",
+    "sentence": "It's inconceivable that he survived the accident.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Destinies",
+    "hebrew": "גורלות",
+    "sentence": "Their destinies were forever changed by the war.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Decay",
+    "hebrew": "ריקבון, להרקיב",
+    "sentence": "The fruit began to decay after a few days.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Figure",
+    "hebrew": "דמות",
+    "sentence": "She is a famous figure in the fashion world.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "grasp",
+    "hebrew": "תופשים",
+    "sentence": "He couldn’t fully grasp the concept of relativity.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "Deference",
+    "hebrew": "העתרות, כבוד",
+    "sentence": "He treated her with deference and respect.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "instruments",
+    "hebrew": "כלי נגינה",
+    "sentence": "The orchestra used various instruments in the performance.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Attain",
+    "hebrew": "לְהַשִׂיג",
+    "sentence": "She worked hard to attain her goals.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Pleaded",
+    "hebrew": "התחנן",
+    "sentence": "He pleaded for a second chance.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Preservation",
+    "hebrew": "שימור",
+    "sentence": "The museum focuses on the preservation of ancient art.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "affluent",
+    "hebrew": "שופעת",
+    "sentence": "They live in an affluent neighborhood in the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "To detect",
+    "hebrew": "לאתר, לגלות",
+    "sentence": "The doctor was able to detect the disease early.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "contemporary",
+    "hebrew": "עכשווי",
+    "sentence": "She prefers contemporary art over classical styles.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "To worship",
+    "hebrew": "להעריץ, לסגוד",
+    "sentence": "Many people gather to worship at the temple.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "facilitate",
+    "hebrew": "לסייע, להקל",
+    "sentence": "Technology can facilitate communication between team members.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Volcano",
+    "hebrew": "הר געש",
+    "sentence": "The volcano erupted after centuries of silence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "mined",
+    "hebrew": "לחפור, ממוקש",
+    "sentence": "They mined the area for precious metals.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "maintenance",
+    "hebrew": "אחזקה",
+    "sentence": "Regular maintenance is needed to keep the system running.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Substantial",
+    "hebrew": "משמעותי",
+    "sentence": "There was a substantial improvement in her grades.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Ought",
+    "hebrew": "צריך",
+    "sentence": "You ought to apologize for what you said.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "severity",
+    "hebrew": "חומרה",
+    "sentence": "The severity of the storm was underestimated.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "repository",
+    "hebrew": "מאגר",
+    "sentence": "The files are stored in a secure repository.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "elaborate",
+    "hebrew": "לפרט, להרחיב",
+    "sentence": "Can you elaborate on your plan?",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Disunity",
+    "hebrew": "חוסר איחוד",
+    "sentence": "Political disunity weakened the movement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "implied",
+    "hebrew": "רמזו",
+    "sentence": "She never said it directly, but clearly implied her disapproval.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Clutched",
+    "hebrew": "לפות, אחז",
+    "sentence": "She clutched her bag tightly as she ran.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Endeavor",
+    "hebrew": "מאמץ, ניסיון",
+    "sentence": "Climbing the mountain was a dangerous endeavor.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Convened",
+    "hebrew": "מתכנס",
+    "sentence": "The council convened for an emergency meeting.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Boycott",
+    "hebrew": "להחרים",
+    "sentence": "Activists called to boycott the company.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Debate",
+    "hebrew": "לדון, דיון",
+    "sentence": "We had a long debate about the issue.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To extinguish",
+    "hebrew": "לכבות",
+    "sentence": "Firefighters managed to extinguish the flames.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Vicious",
+    "hebrew": "מרושע",
+    "sentence": "The villain in the movie was truly vicious.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Deduction",
+    "hebrew": "הפחתה, הסקת מסקנה",
+    "sentence": "He made a deduction based on the evidence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To impose",
+    "hebrew": "לכפות",
+    "sentence": "The teacher decided to impose strict rules.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "idle",
+    "hebrew": "בטלה",
+    "sentence": "The machines were idle during the holiday.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Uncertainly",
+    "hebrew": "בחוסר ביטחון",
+    "sentence": "She spoke uncertainly during the interview.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To bear",
+    "hebrew": "לשאת, לסבול",
+    "sentence": "I can't bear this pain any longer.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "demand",
+    "hebrew": "דרישה",
+    "sentence": "There was a high demand for the new product.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Diligence",
+    "hebrew": "חריצות",
+    "sentence": "Her success is a result of hard work and diligence.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "To occupy",
+    "hebrew": "להעסיק, לשכון, להתגורר, להחזיק בשטח כבוש",
+    "sentence": "Soldiers occupied the area for several months.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Moisture",
+    "hebrew": "לחות",
+    "sentence": "The towel absorbed the moisture from her hair.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Disenchantment",
+    "hebrew": "אכזבה מ",
+    "sentence": "There was widespread disenchantment with politics.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "rubble",
+    "hebrew": "הריסות",
+    "sentence": "After the earthquake, the city was covered in rubble.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "recalling",
+    "hebrew": "ביטל",
+    "sentence": "The company is recalling the faulty product.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Nocturnal",
+    "hebrew": "לילי",
+    "sentence": "Owls are nocturnal creatures.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Transmission",
+    "hebrew": "הפצה",
+    "sentence": "The virus transmission rate is rising.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Confound",
+    "hebrew": "לבלבל",
+    "sentence": "The unexpected result confounded the scientists.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Attire",
+    "hebrew": "לבוש, ביגוד",
+    "sentence": "She wore formal attire to the gala.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Compel",
+    "hebrew": "לְהַכרִיחַ",
+    "sentence": "The law can compel citizens to testify.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "To devise",
+    "hebrew": "להגות, לתכנן",
+    "sentence": "They devised a new plan to solve the issue.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "shards",
+    "hebrew": "רסיסים",
+    "sentence": "Glass shards covered the floor after the explosion.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "rhinoceros",
+    "hebrew": "קרנף",
+    "sentence": "We saw a rhinoceros during the safari tour.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Redundant",
+    "hebrew": "מיותר",
+    "sentence": "The last sentence was completely redundant.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To initiate",
+    "hebrew": "ליזום",
+    "sentence": "They initiated a new environmental program.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Innate",
+    "hebrew": "מולד",
+    "sentence": "He has an innate talent for music.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "infamous",
+    "hebrew": "ידוע לשמצה",
+    "sentence": "He was infamous for his reckless behavior.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Inference",
+    "hebrew": "מַסְקָנָה",
+    "sentence": "The scientist drew an inference from the data.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Tract",
+    "hebrew": "שטח, צינור",
+    "sentence": "He owns a large tract of land.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Resented",
+    "hebrew": "להתרעם, להרעיש",
+    "sentence": "He resented being left out of the meeting.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "qualified",
+    "hebrew": "כשירים",
+    "sentence": "She’s highly qualified for the teaching position.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Tile",
+    "hebrew": "אריח",
+    "sentence": "The bathroom floor is covered with tile.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Margin",
+    "hebrew": "שוליים",
+    "sentence": "Write your answers in the margin of the page.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Immense",
+    "hebrew": "עצום",
+    "sentence": "The ocean is an immense body of water.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "To descend",
+    "hebrew": "לבזות, לתעב",
+    "sentence": "He would never descend to such petty behavior.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Apprentice",
+    "hebrew": "שוליה, מתלמד",
+    "sentence": "He started as an apprentice in a woodworking shop.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Conscious",
+    "hebrew": "מוּדָע",
+    "sentence": "He was conscious throughout the surgery.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Dazzling",
+    "hebrew": "הִסתַנוְרוּת",
+    "sentence": "Her performance was absolutely dazzling.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Indigenous",
+    "hebrew": "ילידים",
+    "sentence": "The indigenous people have lived here for centuries.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Papyrus",
+    "hebrew": "חומר לכתיבה",
+    "sentence": "Ancient Egyptians used papyrus for writing.",
+    "count_right_guess": 1,
+    "count_wrong_guess": 0,
+    "success_rate": 1.0,
+    "chosen": false
+  },
+  {
+    "english": "Tenant",
+    "hebrew": "דייר",
+    "sentence": "The tenant signed a one-year lease.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "Standby",
+    "hebrew": "בהמתנה, מוכן לשימוש",
+    "sentence": "The plane is ready for takeoff and the crew is on standby.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Humble",
+    "hebrew": "להשפיל, להכניע",
+    "sentence": "The experience humbled him and made him more compassionate.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Moist",
+    "hebrew": "לח",
+    "sentence": "The cake was soft and moist.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Formally",
+    "hebrew": "לשעבר",
+    "sentence": "He was formally the CEO of a major company.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "implied",
+    "hebrew": "רמזו",
+    "sentence": "His tone implied that he was upset.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Predator",
+    "hebrew": "טורף",
+    "sentence": "The lion is a powerful predator in the wild.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Inevitable",
+    "hebrew": "בלתי נמנע",
+    "sentence": "Change is inevitable in life.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Petal",
+    "hebrew": "עלה כותרת",
+    "sentence": "Each flower had five soft petals.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "comprised",
+    "hebrew": "כללו",
+    "sentence": "The committee comprised ten experts in the field.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Adapt to",
+    "hebrew": "להסתגל ל",
+    "sentence": "It took her a while to adapt to the cold weather.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Shudder",
+    "hebrew": "צמרמורת",
+    "sentence": "He felt a shudder run down his spine in the dark room.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Resented",
+    "hebrew": "להתרעם, להרעיש",
+    "sentence": "She resented the unfair criticism she received.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Respiration",
+    "hebrew": "נשימה",
+    "sentence": "Respiration is essential for producing energy in the body.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Vulture",
+    "hebrew": "עוף דורס",
+    "sentence": "The vulture circled above, looking for food.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Rectangle",
+    "hebrew": "מלבן",
+    "sentence": "A rectangle has two pairs of equal sides.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "gradually",
+    "hebrew": "בהדרגה",
+    "sentence": "She improved gradually over the semester.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Witness",
+    "hebrew": "עד",
+    "sentence": "The witness gave a detailed account of the accident.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Maligant",
+    "hebrew": "זדוני, רשע, ממאיר",
+    "sentence": "The tumor turned out to be malignant.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "underscore",
+    "hebrew": "להדגיש",
+    "sentence": "This example underscores the importance of practice.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "inflicting",
+    "hebrew": "מענישים",
+    "sentence": "The storm is inflicting serious damage on the coast.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "ambiguous",
+    "hebrew": "דו משמעי",
+    "sentence": "Many qoutes in the bibe are ambiguous",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "deduce",
+    "hebrew": "להסיק, להפיק מסקנה",
+    "sentence": "From the evidence, we can deduce his location.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "plausible",
+    "hebrew": "מתקבל על הדעת",
+    "sentence": "That explanation sounds plausible to me.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Navigating",
+    "hebrew": "מנווט",
+    "sentence": "She had trouble navigating through the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Dismiss",
+    "hebrew": "לְפַטֵר",
+    "sentence": "She was dismissed for being late.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "prescribe",
+    "hebrew": "לרשום מרשם",
+    "sentence": "The doctor will prescribe antibiotics for the infection.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Persist",
+    "hebrew": "להתמיד",
+    "sentence": "She had to persist through many challenges.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "conceal",
+    "hebrew": "להסתיר",
+    "sentence": "He tried to conceal his disappointment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Confinement",
+    "hebrew": "מַאֲסָר",
+    "sentence": "He suffered during his long confinement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Coat",
+    "hebrew": "פחם",
+    "sentence": "The floor was covered in a fine coat of coal dust.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "discrimination",
+    "hebrew": "אפליה",
+    "sentence": "Laws were passed to prevent racial discrimination.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Instrument",
+    "hebrew": "כלי, מסמך",
+    "sentence": "The violin is a delicate musical instrument.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Flatter",
+    "hebrew": "מחמיא",
+    "sentence": "He knows how to flatter everyone at the office.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Insurmountable",
+    "hebrew": "שלא ניתן להתגבר עליו",
+    "sentence": "The task seemed insurmountable at first.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Relic",
+    "hebrew": "שריד",
+    "sentence": "The museum displayed ancient relics from the Roman Empire.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Compiling",
+    "hebrew": "איסוף",
+    "sentence": "She is compiling data for her research.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "disclosure",
+    "hebrew": "חשיפה",
+    "sentence": "The disclosure of private emails caused a scandal.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Unformed",
+    "hebrew": "חסר צורה",
+    "sentence": "His ideas are still unformed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "assess",
+    "hebrew": "להעריך",
+    "sentence": "The teacher will assess your progress over the semester.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Scripture",
+    "hebrew": "כתבים, כתבי קודש",
+    "sentence": "He studied ancient scriptures to understand the religion.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 2,
+    "chosen": false
+  },
+  {
+    "english": "Shortcut",
+    "hebrew": "קיצור דרך",
+    "sentence": "He took a shortcut through the park to save time.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Plight",
+    "hebrew": "מַצָב",
+    "sentence": "The documentary showed the plight of the refugees.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "To exploit",
+    "hebrew": "לנצל",
+    "sentence": "The company was accused of exploiting its workers.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Governing",
+    "hebrew": "שולטים",
+    "sentence": "The governing body met to discuss new policies.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Humidity",
+    "hebrew": "לחות",
+    "sentence": "The humidity made the air feel heavy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Unify",
+    "hebrew": "לאחד, לאגד",
+    "sentence": "The new leader will unify the party.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "flooding",
+    "hebrew": "הצפה",
+    "sentence": "Heavy rain caused severe flooding in the city.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "abundant",
+    "hebrew": "שופע",
+    "sentence": "The garden is abundant with flowers in spring.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Hinder",
+    "hebrew": "לְעַכֵּב",
+    "sentence": "The snow may hinder our travel plans.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Constituted",
+    "hebrew": "היווה",
+    "sentence": "The committee constituted five members.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Hump",
+    "hebrew": "דבשת",
+    "sentence": "The camel stores fat in its hump.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "deduce",
+    "hebrew": "להסיק, להפיק מסקנה",
+    "sentence": "From her expression, we can deduce that she's not happy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Proliferate",
+    "hebrew": "לְהִתְרַבּוֹת",
+    "sentence": "Smartphones continue to proliferate.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "tentative",
+    "hebrew": "ניסיונית",
+    "sentence": "We made a tentative plan for the weekend.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Composer",
+    "hebrew": "מַלחִין",
+    "sentence": "Beethoven was a famous classical composer.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Drawer",
+    "hebrew": "מגירה",
+    "sentence": "She keeps her socks in the top drawer.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Improbable",
+    "hebrew": "לא סביר",
+    "sentence": "It's improbable that it will snow in the desert.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "conference",
+    "hebrew": "כנס",
+    "sentence": "The annual tech conference was held in Berlin.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Cautious",
+    "hebrew": "זהיר",
+    "sentence": "She is cautious when making big decisions.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "molding",
+    "hebrew": "מעצבים",
+    "sentence": "Teachers play a key role in molding young minds.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "deformed",
+    "hebrew": "מעוות",
+    "sentence": "The sculpture was intentionally deformed.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "evaluate",
+    "hebrew": "להעריך",
+    "sentence": "We need to evaluate the effectiveness of the new policy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Denounce",
+    "hebrew": "להוקיע, לגנות",
+    "sentence": "She denounced corruption in the government.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Immune",
+    "hebrew": "חֲסִין",
+    "sentence": "After the vaccination, she became immune to the virus.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Prevail",
+    "hebrew": "לנצח",
+    "sentence": "Justice will prevail in the end.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Parasites",
+    "hebrew": "טפילים",
+    "sentence": "The doctor explained how parasites affect the body.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To rehabilitate",
+    "hebrew": "לשקם",
+    "sentence": "The center helps injured animals rehabilitate and return to nature.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "facilitate",
+    "hebrew": "לסייע, להקל",
+    "sentence": "The new system will facilitate better communication.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "infamous",
+    "hebrew": "ידוע לשמצה",
+    "sentence": "The criminal was infamous for his daring heists.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "fair",
+    "hebrew": "יריד",
+    "sentence": "We went to the science fair together.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "evaluate",
+    "hebrew": "להעריך",
+    "sentence": "Teachers evaluate students based on their performance.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "cites",
+    "hebrew": "מצטט",
+    "sentence": "She often cites scientific articles in her papers.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Emit",
+    "hebrew": "לפלוט",
+    "sentence": "The factory emits smoke into the air.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Data compiling",
+    "hebrew": "איסוף נתונים",
+    "sentence": "She is responsible for compiling the data.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Enclosure",
+    "hebrew": "מכלאה, גידור",
+    "sentence": "The lion paced inside its enclosure.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "troop",
+    "hebrew": "גדוד,צבא",
+    "sentence": "troop is a group of soldiers",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "aloof",
+    "hebrew": "לא ידידותי, מרוחק",
+    "sentence": "She remained aloof during the entire conversation.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Astounding",
+    "hebrew": "מפתיע",
+    "sentence": "Her progress in English was truly astounding.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Sacred",
+    "hebrew": "קדוש",
+    "sentence": "The temple is considered sacred by many people.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Observing",
+    "hebrew": "התבוננות",
+    "sentence": "She spent the afternoon quietly observing birds in the park.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Estates",
+    "hebrew": "אחוזות",
+    "sentence": "The king owned vast estates across the land.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Civilization",
+    "hebrew": "תרבות",
+    "sentence": "Ancient civilization fascinates historians.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Feasible",
+    "hebrew": "בר קיימא",
+    "sentence": "It’s not feasible to complete the task in one day.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "deviate",
+    "hebrew": "לסטות",
+    "sentence": "Try not to deviate from the instructions.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "To exhale",
+    "hebrew": "לנשוף",
+    "sentence": "Take a deep breath and then exhale slowly.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Scholar",
+    "hebrew": "מְלוּמָד",
+    "sentence": "He is a respected scholar of ancient history.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "prioritize",
+    "hebrew": "לתת עדיפות",
+    "sentence": "You need to prioritize the most urgent tasks first.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Mild",
+    "hebrew": "מָתוּן",
+    "sentence": "The weather was mild and pleasant.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Expedition",
+    "hebrew": "משלחת",
+    "sentence": "The team prepared for the expedition to Antarctica.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Emission",
+    "hebrew": "פליטה",
+    "sentence": "Car emissions contribute to air pollution.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Agriculture",
+    "hebrew": "חקלאות",
+    "sentence": "Agriculture plays a key role in the country’s economy.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "To surpass",
+    "hebrew": "להתעלות על",
+    "sentence": "Her performance surpassed all expectations.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "corruption",
+    "hebrew": "שחיתות",
+    "sentence": "The scandal revealed deep corruption in the government.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "negotiated",
+    "hebrew": "משא ומתן",
+    "sentence": "They successfully negotiated a peace agreement.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Surge",
+    "hebrew": "פרץ",
+    "sentence": "A surge of emotion overwhelmed her.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Committee",
+    "hebrew": "וַעֲדָה",
+    "sentence": "The committee will review the proposal.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Clemency",
+    "hebrew": "חנינה",
+    "sentence": "The prisoner was granted clemency by the president.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "rigidity",
+    "hebrew": "נוקשות",
+    "sentence": "The rigidity of the rules makes them hard to follow.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Resentful",
+    "hebrew": "רגוז, כעוס",
+    "sentence": "She felt resentful after being overlooked for the promotion.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Toad",
+    "hebrew": "קרפד",
+    "sentence": "A toad is different from a frog in several ways.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "sophisticated",
+    "hebrew": "מתוחכם",
+    "sentence": "The security system is highly sophisticated.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Initiative",
+    "hebrew": "יוזמה",
+    "sentence": "She took the initiative to fix the broken shelf.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Marginal",
+    "hebrew": "שולי",
+    "sentence": "His role in the project was marginal.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Odor",
+    "hebrew": "ריח",
+    "sentence": "There was a strange odor coming from the kitchen.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "Ample",
+    "hebrew": "מַסְפִּיק",
+    "sentence": "We have ample time to finish the project.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Tilt",
+    "hebrew": "לנטות",
+    "sentence": "The picture frame was slightly tilted.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Upkeep",
+    "hebrew": "תחזוקה",
+    "sentence": "The upkeep of the mansion costs a lot.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Omit",
+    "hebrew": "לפלוט",
+    "sentence": "Please do not omit any details from your report.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Derive",
+    "hebrew": "להפיק, להסיק",
+    "sentence": "He derived great joy from teaching.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Toll",
+    "hebrew": "אגרה",
+    "sentence": "You must pay a toll to cross the bridge.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "eloquent",
+    "hebrew": "רהוט, משכנע",
+    "sentence": "Her speech was powerful and eloquent.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "count_right_guesses": 1,
+    "chosen": false
+  },
+  {
+    "english": "Signature",
+    "hebrew": "חתימה",
+    "sentence": "Please put your signature at the bottom of the form.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new",
+    "chosen": false
+  },
+  {
+    "english": "substantiate",
+    "hebrew": "לתמוך בראיות",
+    "sentence": "You need to substantiate your argument with facts.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Retreat",
+    "hebrew": "לסגת",
+    "sentence": "The army had to retreat from the battlefield.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  }
+]
