@@ -1,0 +1,92 @@
+[
+  {
+    "english": "Recitation",
+    "hebrew": "דקלום",
+    "sentence": "She gave a flawless recitation of the poem.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Thwart",
+    "hebrew": "סיכל מאמצים, התנגד",
+    "sentence": "The guards thwarted the robbery attempt.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Invariably",
+    "hebrew": "תמיד, ללא שינוי",
+    "sentence": "He invariably drinks coffee in the morning.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Route",
+    "hebrew": "מסלול",
+    "sentence": "This is the fastest route to the station.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Cumulative",
+    "hebrew": "מִצטַבֵּר",
+    "sentence": "The damage was the result of cumulative stress.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Retort",
+    "hebrew": "תשובה מוחצת",
+    "sentence": "He gave a sharp retort to her comment.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  },
+  {
+    "english": "Fluctuate",
+    "hebrew": "משתנה",
+    "sentence": "Prices fluctuate depending on demand.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Benefactors",
+    "hebrew": "מיטיבים",
+    "sentence": "The school was funded by generous benefactors.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Ineptitude",
+    "hebrew": "חוסר יכולת",
+    "sentence": "His ineptitude made him unfit for the job.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "category": "new"
+  },
+  {
+    "english": "Delinquency",
+    "hebrew": "עבריינות",
+    "sentence": "The program aims to reduce youth delinquency.",
+    "count_right_guess": 0,
+    "count_wrong_guess": 0,
+    "success_rate": 0.0,
+    "chosen": false
+  }
+]
