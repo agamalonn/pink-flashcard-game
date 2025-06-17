@@ -68,6 +68,17 @@ def next_card():
     word_label.config(text=words[index]["english"])
     sentence_label.config(text=words[index]["sentence"])
 
+def prev_card():
+    global index, showing_translation
+    if len(words) == 0:
+        word_label.config(text="No words left!")
+        sentence_label.config(text="")
+        return
+    index = (index - 1) % len(words)
+    showing_translation = False
+    word_label.config(text=words[index]["english"])
+    sentence_label.config(text=words[index]["sentence"])
+
 def play_word():
     lang = "en" if not showing_translation else "he"
     text = words[index]["english"] if lang == "en" else words[index]["hebrew"]
@@ -133,13 +144,16 @@ sentence_label = tk.Label(root, font=("Arial", 20, "italic"),
                           wraplength=360)
 sentence_label.pack(pady=5)
 
-btn_style = {"width": 12, "font": ("Comic Sans MS", 20, "bold"), "bg": "#5f0e37", "fg": "white", "relief": "raised"}
+btn_style = {"width": 12, "font": ("Comic Sans MS", 20, "bold"), "bg": "#5f0e37", "fg": "pink", "relief": "raised"}
 
 flip_btn = tk.Button(root, text="💫Flip", command=toggle_card, **btn_style)
 flip_btn.pack(pady=5)
 
 next_btn = tk.Button(root, text="➡️Next", command=next_card, **btn_style)
 next_btn.pack(pady=5)
+
+back_btn = tk.Button(root, text="⬅️Back", command=prev_card, **btn_style)
+back_btn.pack(pady=5)
 
 voice_btn = tk.Button(root, text="🔊Speak", command=play_word, **btn_style)
 voice_btn.pack(pady=5)
