@@ -23,6 +23,15 @@ class FlashcardApp:
         self.words = self.load_words(self.mode)
         self.index = 0
         self.showing_translation = False
+        self.dark_mode = False
+        self.show_all_translations = False
+        self.known_words = set()
+        self.cards_seen = set()
+        self.starred = set()
+        self.review_starred_only = False
+        self.show_sentence = True
+        self.session_start_time = None
+        self.font_size = 40
         self.setup_styles()
         self.setup_ui()
         self.update_card()
@@ -35,6 +44,20 @@ class FlashcardApp:
         self.root.bind("r", lambda e: self.reset())
         self.root.bind("s", lambda e: self.shuffle_cards())
         self.root.bind("<F1>", lambda e: self.show_help())
+        self.root.bind("k", lambda e: self.mark_as_known())
+        self.root.bind("g", lambda e: self.goto_card_dialog())
+        self.root.bind("t", lambda e: self.toggle_all_translations())
+        self.root.bind("m", lambda e: self.toggle_dark_mode())
+        self.root.bind("p", lambda e: self.show_stats())
+        self.root.bind("f", lambda e: self.toggle_starred())
+        self.root.bind("v", lambda e: self.toggle_review_starred())
+        self.root.bind("z", lambda e: self.random_card())
+        self.root.bind("c", lambda e: self.copy_word())
+        self.root.bind("+", lambda e: self.increase_font())
+        self.root.bind("-", lambda e: self.decrease_font())
+        self.root.bind("e", lambda e: self.toggle_sentence())
+        self.session_start_time = self._now()
+        self.update_timer()
 
     def center_window(self):
         self.root.update_idletasks()
@@ -159,12 +182,28 @@ class FlashcardApp:
             ("❓ Don't Know", "Add to 'New Words'"),
             ("🔀 Shuffle", "Randomize the order of cards"),
             ("🔄 Reset", "Restart from first card"),
-            ("❔ Help", "Show keyboard shortcuts")
+            ("❔ Help", "Show keyboard shortcuts"),
+            ("✅ Known", "Mark as known (remove from list)"),
+            ("🔢 Go to #", "Jump to a specific card"),
+            ("🌗 Dark Mode", "Toggle dark/light theme"),
+            ("👁️ Show Both", "Show both English & Hebrew"),
+            ("📊 Stats", "Show session stats"),
+            ("⭐ Star", "Mark/unmark as favorite"),
+            ("🌟 Review Starred", "Toggle review only starred"),
+            ("🎲 Random", "Jump to a random card"),
+            ("📋 Copy", "Copy current word"),
+            ("👁️ Sentence", "Show/hide example sentence"),
+            ("A+ Font", "Increase font size"),
+            ("A- Font", "Decrease font size"),
         ]
         btn_cmds = [
             self.toggle_card, self.next_card, self.prev_card, self.play_word,
             self.play_sentence, self.delete_current_word, self.dont_know_word,
-            self.shuffle_cards, self.reset, self.show_help
+            self.shuffle_cards, self.reset, self.show_help,
+            self.mark_as_known, self.goto_card_dialog, self.toggle_dark_mode,
+            self.toggle_all_translations, self.show_stats,
+            self.toggle_starred, self.toggle_review_starred, self.random_card,
+            self.copy_word, self.toggle_sentence, self.increase_font, self.decrease_font
         ]
         for i, (main, sub) in enumerate(btn_texts):
             frame = tk.Frame(btn_scrollable_frame, bg="#ffe6f7")
@@ -225,6 +264,10 @@ class FlashcardApp:
         self.vocab_inner = vocab_inner
         self.update_vocab_list()
 
+        # Timer label
+        self.timer_label = tk.Label(self.root, font=("Segoe UI", 13), bg="#ffe6f7", fg="#d72660")
+        self.timer_label.place(relx=0.5, rely=0.01, anchor="n")
+
         # Footer
         footer = tk.Label(self.root, text="© 2025 Agam Alon's Pink Flashcard Game", font=("Segoe UI", 12),
                           bg="#ffe6f7", fg="#d72660")
@@ -243,6 +286,21 @@ class FlashcardApp:
         def on_leave(e): btn.configure(style="Pink.TButton")
         btn.bind("<Enter>", on_enter)
         btn.bind("<Leave>", on_leave)
+        # Add tooltip
+        def show_tooltip(e, tip=text):
+            x, y, _, _ = btn.bbox("insert")
+            x += btn.winfo_rootx() + 40
+            y += btn.winfo_rooty() + 20
+            self.tooltip = tk.Toplevel(btn)
+            self.tooltip.wm_overrideredirect(True)
+            self.tooltip.wm_geometry(f"+{x}+{y}")
+            label = tk.Label(self.tooltip, text=tip, bg="#ffb6d5", fg="#fff", font=("Segoe UI", 10))
+            label.pack()
+        def hide_tooltip(e):
+            if hasattr(self, "tooltip"):
+                self.tooltip.destroy()
+        btn.bind("<Enter>", show_tooltip)
+        btn.bind("<Leave>", hide_tooltip)
 
     def update_card(self):
         if not self.words:
@@ -256,8 +314,22 @@ class FlashcardApp:
             self.quiz_feedback.config(text="")
             self.update_vocab_list()
             return
-        self.word_label.config(text=self.words[self.index]["english"])
-        self.sentence_label.config(text=self.words[self.index]["sentence"])
+        word = self.words[self.index]
+        self.cards_seen.add(word["english"])
+        star = "⭐ " if word["english"] in self.starred else ""
+        if self.show_all_translations:
+            self.word_label.config(
+                text=f"{star}{word['english']} / {word['hebrew']}", font=("Segoe UI Black", self.font_size, "bold")
+            )
+        else:
+            self.word_label.config(
+                text=f"{star}{word['english'] if not self.showing_translation else word['hebrew']}",
+                font=("Segoe UI Black", self.font_size, "bold")
+            )
+        self.sentence_label.config(
+            text=word["sentence"] if self.show_sentence else "",
+            font=("Segoe UI", 20, "italic")
+        )
         self.showing_translation = False
         self.update_progress()
         self.update_quiz()
@@ -267,7 +339,7 @@ class FlashcardApp:
         self.progress_label.config(text=f"Card {self.index+1} of {len(self.words)}")
 
     def toggle_card(self):
-        if not self.words:
+        if not self.words or self.show_all_translations:
             return
         if not self.showing_translation:
             self.word_label.config(text=self.words[self.index]["hebrew"])
@@ -372,8 +444,20 @@ class FlashcardApp:
             "  x : Delete word\n"
             "  r : Reset to first card\n"
             "  s : Shuffle cards\n"
-            "  F1 : Show this help\n\n"
-            "Each button now has a short explanation!"
+            "  F1 : Show this help\n"
+            "  k : Mark as known\n"
+            "  g : Go to card #\n"
+            "  t : Toggle show both\n"
+            "  m : Toggle dark mode\n"
+            "  p : Show stats\n"
+            "  f : Star/unstar word\n"
+            "  v : Review starred only\n"
+            "  z : Random card\n"
+            "  c : Copy word\n"
+            "  e : Show/hide sentence\n"
+            "  + : Increase font\n"
+            "  - : Decrease font\n"
+            "\nEach button now has a short explanation!"
         )
         messagebox.showinfo("Help", help_text)
 
@@ -479,6 +563,139 @@ class FlashcardApp:
             self.index = max(0, len(self.words) - 1)
         self.update_card()
         self.update_vocab_list()
+
+    def toggle_all_translations(self):
+        self.show_all_translations = not self.show_all_translations
+        self.update_card()
+
+    def mark_as_known(self):
+        if not self.words:
+            return
+        confirm = messagebox.askyesno("Mark as Known", "Remove this word from your list?")
+        if not confirm:
+            return
+        word = self.words[self.index]
+        self.known_words.add(word["english"])
+        del self.words[self.index]
+        self.save_words()
+        if not self.words:
+            self.word_label.config(text="No words left!")
+            self.sentence_label.config(text="")
+            self.progress_label.config(text="")
+            return
+        self.index = self.index % len(self.words)
+        self.update_card()
+
+    def goto_card_dialog(self):
+        if not self.words:
+            return
+        num = simpledialog.askinteger("Go to Card", f"Enter card number (1-{len(self.words)}):")
+        if num is None:
+            return
+        if 1 <= num <= len(self.words):
+            self.index = num - 1
+            self.update_card()
+        else:
+            messagebox.showinfo("Invalid", "Card number out of range.")
+
+    def toggle_dark_mode(self):
+        self.dark_mode = not self.dark_mode
+        bg = "#23272e" if self.dark_mode else "#ffe6f7"
+        fg = "#fff" if self.dark_mode else "#d72660"
+        self.root.configure(bg=bg)
+        # Recursively update all widgets' bg/fg
+        def update_widget_colors(widget):
+            try:
+                widget.configure(bg=bg)
+            except:
+                pass
+            try:
+                widget.configure(fg=fg)
+            except:
+                pass
+            for child in widget.winfo_children():
+                update_widget_colors(child)
+        update_widget_colors(self.root)
+        self.update_card()
+
+    def show_stats(self):
+        total = len(self.words) + len(self.known_words)
+        seen = len(self.cards_seen)
+        known = len(self.known_words)
+        unknown = len(self.words)
+        msg = (
+            f"Session Stats:\n"
+            f"  Total cards: {total}\n"
+            f"  Seen: {seen}\n"
+            f"  Known: {known}\n"
+            f"  Unknown: {unknown}\n"
+        )
+        messagebox.showinfo("Session Stats", msg)
+
+    def toggle_starred(self):
+        if not self.words:
+            return
+        word = self.words[self.index]["english"]
+        if word in self.starred:
+            self.starred.remove(word)
+        else:
+            self.starred.add(word)
+        self.update_card()
+
+    def toggle_review_starred(self):
+        self.review_starred_only = not self.review_starred_only
+        if self.review_starred_only:
+            self.filtered_words = [w for w in self.words if w["english"] in self.starred]
+            if not self.filtered_words:
+                messagebox.showinfo("No Starred", "No starred words to review.")
+                self.review_starred_only = False
+                return
+            self.words, self._all_words = self.filtered_words, self.words
+            self.index = 0
+        else:
+            if hasattr(self, "_all_words"):
+                self.words = self._all_words
+                del self._all_words
+            self.index = 0
+        self.update_card()
+
+    def random_card(self):
+        if not self.words:
+            return
+        self.index = random.randint(0, len(self.words) - 1)
+        self.update_card()
+
+    def copy_word(self):
+        if not self.words:
+            return
+        word = self.words[self.index]
+        text = f"{word['english']} - {word['hebrew']}"
+        self.root.clipboard_clear()
+        self.root.clipboard_append(text)
+        messagebox.showinfo("Copied", f"Copied: {text}")
+
+    def toggle_sentence(self):
+        self.show_sentence = not self.show_sentence
+        self.update_card()
+
+    def increase_font(self):
+        self.font_size = min(self.font_size + 4, 80)
+        self.update_card()
+
+    def decrease_font(self):
+        self.font_size = max(self.font_size - 4, 16)
+        self.update_card()
+
+    def update_timer(self):
+        if self.session_start_time:
+            elapsed = int(self._now() - self.session_start_time)
+            mins, secs = divmod(elapsed, 60)
+            self.timer_label.config(text=f"Session Time: {mins:02d}:{secs:02d}")
+        self.root.after(1000, self.update_timer)
+
+    def _now(self):
+        import time
+        return time.time()
 
 if __name__ == "__main__":
     root = tk.Tk()
